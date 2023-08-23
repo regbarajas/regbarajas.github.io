@@ -1,2 +1,1 @@
-# regbarajas.github.io
-my home
+# My Home
