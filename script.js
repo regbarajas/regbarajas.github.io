@@ -1,4 +1,38 @@
 let todos = [
+    
+    {
+        nombre: "LINDA",
+        celular: "3A1A8A8A3A0A0A8A6A3"
+    },
+    
+    {
+        nombre: "SOFI INTENSOS",
+        celular: "3A2A2A5A3A1A8A4A9A6"
+    },
+    {
+        nombre: "VALENTINA",
+        celular: "3A1A6A1A4A7A9A3A5A7"
+    },
+    {
+        nombre: "MARIA CAMILA",
+        celular: "3A1A3A4A2A4A2A3A8A8"
+    },
+    {
+        nombre: "KATALINA",
+        celular: "3A1A3A2A6A2A2A8A2A1"
+    },
+    {
+        nombre: "LORENA",
+        celular: "3A0A1A7A9A4A2A8A1A3"
+    },
+    {
+        nombre: "FLACA",
+        celular: "3A2A2A7A0A8A1A6A6A7"
+    },
+    {
+        nombre: "TATUAJE",
+        celular: "3A1A1A5A4A2A8A1A7A7"
+    },
     {
         nombre: "",
         celular: "3A2A0A3A4A1A5A5A1A3"
@@ -1391,10 +1425,7 @@ let todos = [
         nombre: "",
         celular: "3A2A0A3A6A2A0A3A9A2"
     },
-    {
-        nombre: "",
-        celular: "3A1A1A5A4A2A8A1A7A7"
-    },
+
     {
         nombre: "",
         celular: "3A1A3A3A8A2A1A7A4A5"
@@ -1981,9 +2012,11 @@ let tels = todos.map( tel => {
     html += `
     <div class="row border my-2">
         <div class="col-4 border">
+        <small>
             <a href="https://co.mileroticos.com/escorts/buscar-${ el.celular }" target="_blank">
                 ${ indice } - ${ el.nombre || 'NA' }
             </a>
+            </small>
             <small>${ el.celular }</small>
         </div>
         <div class="col-2 border text-center align-middle">
