@@ -1,6 +1,11 @@
 let todos = [
     
     {
+        nombre: "trio",
+        celular: "3A2A2A4A7A4A8A4A5A3"
+    },
+    
+    {
         nombre: "LINDA",
         celular: "3A1A8A8A3A0A0A8A6A3"
     },
