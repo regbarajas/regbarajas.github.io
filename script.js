@@ -6,6 +6,16 @@ let todos = [
     },
     
     {
+        nombre: "geral nuevo",
+        celular: "3A2A2A7A5A9A8A3A0A0"
+    },
+    
+    {
+        nombre: "LAURA NUEVO",
+        celular: "3A1A8A7A7A3A3A9A5A6"
+    },
+    
+    {
         nombre: "LINDA",
         celular: "3A1A8A8A3A0A0A8A6A3"
     },
