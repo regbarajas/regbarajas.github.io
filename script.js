@@ -1,29 +1,71 @@
 let todos = [
     
     {
-        nombre: "trio",
+        nombre: "TATI",
         celular: "3A2A2A4A7A4A8A4A5A3"
     },
-    
     {
-        nombre: "geral nuevo",
-        celular: "3A2A2A7A5A9A8A3A0A0"
+        nombre: "GERAL 001",
+        celular: "3A2A2A5A3A1A8A4A9A6"
     },
-    
     {
-        nombre: "LAURA NUEVO",
-        celular: "3A1A8A7A7A3A3A9A5A6"
+        nombre: "GERAL 002",
+        celular: "3A2A2A7A5A9A8A3AA0A0"
     },
+    {
+        nombre: "GERAL 003",
+        celular: "3A2A2A7A5A9A8A3A3A7"
+    },
+    {
+        nombre: "GERAL 004",
+        celular: "3A2A2A7A0A4A2A9A2A2"
+    },
+    {
+        nombre: "GERAL 005",
+        celular: "3A2A2A7A0A4A2A9A2A7"
+    },
+    {
+        nombre: "TATUAJE",
+        celular: "3A1A1A5A4A2A8A1A7A7"
+    },
+
+    {
+        nombre: "OTRA RUBIA",
+        celular: "3A2A0A3A6A7A2A8A5A5"
+    },
+    {
+        nombre: "OTRA RUBIA MISMA",
+        celular: "3106776498"
+    },
+    {
+        nombre: "SOFIA",
+        celular: "3239727722"
+    },
+    {
+        nombre: "CARTAGENA",
+        celular: "3215679580"
+    },
+
+    {
+        nombre: "VENECA 60",
+        celular: "3106174274"
+    },
+    {
+        nombre: "ARTOS",
+        celular: "3219164453"
+    },
+    {
+        nombre: "TETONA",
+        celular: "3102891672"
+    },
+
     
     {
         nombre: "LINDA",
         celular: "3A1A8A8A3A0A0A8A6A3"
     },
     
-    {
-        nombre: "SOFI INTENSOS",
-        celular: "3A2A2A5A3A1A8A4A9A6"
-    },
+
     {
         nombre: "VALENTINA",
         celular: "3A1A6A1A4A7A9A3A5A7"
@@ -44,10 +86,7 @@ let todos = [
         nombre: "FLACA",
         celular: "3A2A2A7A0A8A1A6A6A7"
     },
-    {
-        nombre: "TATUAJE",
-        celular: "3A1A1A5A4A2A8A1A7A7"
-    },
+
     {
         nombre: "",
         celular: "3A2A0A3A4A1A5A5A1A3"
@@ -248,10 +287,7 @@ let todos = [
         nombre: "",
         celular: "3A0A2A6A6A7A7A9A7A8"
     },
-    {
-        nombre: "",
-        celular: "3A2A0A3A6A7A2A8A5A5"
-    },
+
     {
         nombre: "",
         celular: "3A2A0A3A8A0A7A7A7A6"
