@@ -39,7 +39,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -50,7 +51,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -65,7 +67,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "leidy ya"
   },
   {
     "phones": [
@@ -107,7 +110,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -118,7 +122,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -139,7 +144,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -155,7 +161,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "dulce pecado"
   },
   {
     "phones": [
@@ -180,7 +187,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Carrera 15A #5 - 33"
   },
   {
     "phones": [
@@ -193,7 +201,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "parece zoologico"
   },
   {
     "phones": [
@@ -204,7 +213,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -217,7 +227,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "altico"
   },
   {
     "phones": [
@@ -234,7 +245,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -248,7 +260,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -263,7 +276,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": " Calle 69A 1D 16 balcones de la riviera cerca al unico es el norte         "
   },
   {
     "phones": [
@@ -276,7 +290,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -288,7 +303,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -306,7 +322,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -323,7 +340,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "viajeras"
   },
   {
     "phones": [
@@ -366,7 +384,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 70
+    "rato": 70,
+    "lugar": "casa Cl 3 15#08"
   },
   {
     "phones": [
@@ -377,7 +396,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -390,7 +410,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "colonial calle 12"
   },
   {
     "phones": [
@@ -401,7 +422,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -412,7 +434,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -424,7 +447,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Calle 6 ta 18/42 Calixto"
   },
   {
     "phones": [
@@ -448,7 +472,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -461,7 +486,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -483,7 +509,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 70,
-    "rato": 60
+    "rato": 60,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -496,7 +523,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "catalogo"
   },
   {
     "phones": [
@@ -509,7 +537,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 60,
-    "rato": 50
+    "rato": 50,
+    "lugar": "hotel opita calle 9 # 2 - 60"
   },
   {
     "phones": [
@@ -530,7 +559,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -544,7 +574,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "no"
   },
   {
     "phones": [
@@ -557,7 +588,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": ""
   },
   {
     "phones": [
@@ -571,7 +603,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "pereiranas"
   },
   {
     "phones": [
@@ -584,7 +617,8 @@ let putas = [
     ],
     "hora": 160,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -598,7 +632,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -634,7 +669,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -647,7 +683,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "faca"
   },
   {
     "phones": [
@@ -659,7 +696,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "villa laurel norte"
   },
   {
     "phones": [
@@ -709,7 +747,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -728,7 +767,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -739,7 +779,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "videollamadas"
   },
   {
     "phones": [
@@ -750,7 +791,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -761,7 +803,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "hotel el eden diagonal san andresito de la 3  Cl. 9, # 3- 10, Neiva"
   },
   {
     "phones": [
@@ -776,7 +819,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "carrera 15a # 5-33"
   },
   {
     "phones": [
@@ -787,7 +831,8 @@ let putas = [
     ],
     "hora": 160,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -804,7 +849,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penthouse "
   },
   {
     "phones": [
@@ -848,7 +894,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 70
+    "rato": 70,
+    "lugar": "peter pan 15 hotel rojo con amarillo"
   },
   {
     "phones": [
@@ -867,7 +914,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -879,7 +927,8 @@ let putas = [
     ],
     "hora": 250,
     "media": 150,
-    "rato": 0
+    "rato": 0,
+    "lugar": "penhouse"
   },
   {
     "phones": [
@@ -906,7 +955,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 70,
-    "rato": 40
+    "rato": 40,
+    "lugar": "CALLE 5 #3-37 HOTEL SAN PEDRO"
   },
   {
     "phones": [
@@ -922,7 +972,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "parece travesti"
   },
   {
     "phones": [
@@ -938,7 +989,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Cra 15a #5 -33"
   },
   {
     "phones": [
@@ -972,7 +1024,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -984,7 +1037,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -995,7 +1049,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -1007,7 +1062,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -1025,7 +1081,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -1036,7 +1093,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -1047,7 +1105,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -1065,7 +1124,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -1078,7 +1138,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "villa del rio"
   },
   {
     "phones": [
@@ -1089,7 +1150,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "parece zoologico"
   },
   {
     "phones": [
@@ -1110,7 +1172,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Fake"
   },
   {
     "phones": [
@@ -1128,7 +1191,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -1166,7 +1230,8 @@ let putas = [
     ],
     "hora": 90,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Hostal villa del rio"
   },
   {
     "phones": [
@@ -1183,7 +1248,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Hotel en el centro"
   },
   {
     "phones": [
@@ -1203,7 +1269,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Hotel casa Murano"
   },
   {
     "phones": [
@@ -1214,7 +1281,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -1231,7 +1299,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Cra 15 A nro 5-33 ALTICO NEIVA🔥"
   },
   {
     "phones": [
@@ -1242,7 +1311,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "carrera 15#5-33 barrio altico"
   },
   {
     "phones": [
@@ -1256,7 +1326,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "PENTHOUSE"
   },
   {
     "phones": [
@@ -1271,7 +1342,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -1293,7 +1365,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "soacha"
   },
   {
     "phones": [
@@ -1305,7 +1378,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "numero sin whatsapp"
   },
   {
     "phones": [
@@ -1324,7 +1398,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -1342,7 +1417,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "virtual"
   },
   {
     "phones": [
@@ -1367,7 +1443,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -1379,7 +1456,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "sion real"
   },
   {
     "phones": [
@@ -1391,7 +1469,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -1407,7 +1486,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -1425,7 +1505,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "bello"
   },
   {
     "phones": [
@@ -1438,7 +1519,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Cll12#1f-27 hotel bella orquídea"
   },
   {
     "phones": [
@@ -1458,7 +1540,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -1473,7 +1556,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Hotel colonial"
   },
   {
     "phones": [
@@ -1490,7 +1574,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Colonial"
   },
   {
     "phones": [
@@ -1506,7 +1591,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "ya villa del rio"
   },
   {
     "phones": [
@@ -1518,7 +1604,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -1534,7 +1621,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "hotel"
   },
   {
     "phones": [
@@ -1548,7 +1636,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -1559,7 +1648,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "numero sin whatsapp"
   },
   {
     "phones": [
@@ -1575,7 +1665,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "PENHOUSE"
   },
   {
     "phones": [
@@ -1591,7 +1682,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 70
+    "rato": 70,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -1611,7 +1703,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -1631,7 +1724,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -1645,7 +1739,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -1656,7 +1751,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -1676,7 +1772,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "virtual"
   },
   {
     "phones": [
@@ -1690,7 +1787,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -1702,7 +1800,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Apt en santa Inés"
   },
   {
     "phones": [
@@ -1715,7 +1814,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "✨Cll3b14-42 - altico es una casa. ✨"
   },
   {
     "phones": [
@@ -1730,7 +1830,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 70
+    "rato": 70,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -1742,7 +1843,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 60,
-    "rato": 30
+    "rato": 30,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -1760,7 +1862,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Lisboa"
   },
   {
     "phones": [
@@ -1771,7 +1874,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "lisboa"
   },
   {
     "phones": [
@@ -1785,7 +1889,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "cr 3 entre 4 y 5"
   },
   {
     "phones": [
@@ -1797,7 +1902,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -1810,7 +1916,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "penthause"
   },
   {
     "phones": [
@@ -1825,7 +1932,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -1836,7 +1944,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -1851,7 +1960,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 90,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Murano"
   },
   {
     "phones": [
@@ -1872,7 +1982,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "penthouse "
   },
   {
     "phones": [
@@ -1885,7 +1996,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Hostal villa del rio"
   },
   {
     "phones": [
@@ -1900,7 +2012,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "CRA 15a 5-33"
   },
   {
     "phones": [
@@ -1912,7 +2025,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -1925,7 +2039,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -1938,7 +2053,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -1952,7 +2068,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Hostal Villa del Rio"
   },
   {
     "phones": [
@@ -1974,7 +2091,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Villavicencio"
   },
   {
     "phones": [
@@ -2005,7 +2123,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 60,
-    "rato": 40
+    "rato": 40,
+    "lugar": "Murano"
   },
   {
     "phones": [
@@ -2032,7 +2151,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2049,7 +2169,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2060,7 +2181,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "murano"
   },
   {
     "phones": [
@@ -2072,7 +2194,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -2083,7 +2206,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -2098,7 +2222,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 80
+    "rato": 80,
+    "lugar": "villa del rio"
   },
   {
     "phones": [
@@ -2115,7 +2240,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2126,7 +2252,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2138,7 +2265,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "onix"
   },
   {
     "phones": [
@@ -2160,7 +2288,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -2175,7 +2304,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Colonial"
   },
   {
     "phones": [
@@ -2190,7 +2320,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Murano"
   },
   {
     "phones": [
@@ -2211,7 +2342,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2226,7 +2358,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 70
+    "rato": 70,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -2239,7 +2372,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Lisboa Center"
   },
   {
     "phones": [
@@ -2252,7 +2386,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2280,7 +2415,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "hotel brisas del Magdalena Calle 9 1G 81 al respaldo de los comuneros"
   },
   {
     "phones": [
@@ -2301,7 +2437,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2335,7 +2472,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 100,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2346,7 +2484,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2364,7 +2503,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2378,7 +2518,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2396,7 +2537,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "CASA MURANO"
   },
   {
     "phones": [
@@ -2410,7 +2552,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "hotel  panorama Carra .2 # 9-24.Neiva"
   },
   {
     "phones": [
@@ -2424,7 +2567,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2435,7 +2579,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "panorama"
   },
   {
     "phones": [
@@ -2456,7 +2601,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2473,7 +2619,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "san jose"
   },
   {
     "phones": [
@@ -2488,7 +2635,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "murano"
   },
   {
     "phones": [
@@ -2502,7 +2650,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2515,7 +2664,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "murano"
   },
   {
     "phones": [
@@ -2538,7 +2688,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -2549,7 +2700,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -2565,7 +2717,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 60,
-    "rato": 0
+    "rato": 0,
+    "lugar": "PENTHOUSE"
   },
   {
     "phones": [
@@ -2579,7 +2732,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -2598,7 +2752,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "manzanares 5"
   },
   {
     "phones": [
@@ -2610,7 +2765,8 @@ let putas = [
     ],
     "hora": 200,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "detras de los comuneros"
   },
   {
     "phones": [
@@ -2634,7 +2790,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 60,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Cr 15A No 05-33"
   },
   {
     "phones": [
@@ -2647,7 +2804,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -2659,7 +2817,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2672,7 +2831,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -2687,7 +2847,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 80
+    "rato": 80,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2707,7 +2868,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Chapinero"
   },
   {
     "phones": [
@@ -2725,7 +2887,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2739,7 +2902,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "SINGAPUR"
   },
   {
     "phones": [
@@ -2751,7 +2915,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -2764,7 +2929,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2775,7 +2941,8 @@ let putas = [
     ],
     "hora": 200,
     "media": 120,
-    "rato": 0
+    "rato": 0,
+    "lugar": "ADN"
   },
   {
     "phones": [
@@ -2786,7 +2953,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -2797,7 +2965,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2812,7 +2981,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2823,7 +2993,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -2834,7 +3005,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2847,7 +3019,8 @@ let putas = [
     ],
     "hora": 180,
     "media": 100,
-    "rato": 80
+    "rato": 80,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -2873,7 +3046,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "COLONIAL"
   },
   {
     "phones": [
@@ -2895,7 +3069,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 50,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2918,7 +3093,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -2932,7 +3108,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "FAKE"
   },
   {
     "phones": [
@@ -2943,7 +3120,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Domicilio"
   },
   {
     "phones": [
@@ -2965,7 +3143,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -2976,7 +3155,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -2987,7 +3167,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "lina y marlon"
   },
   {
     "phones": [
@@ -3003,7 +3184,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": ""
   },
   {
     "phones": [
@@ -3016,7 +3198,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "huele a fake"
   },
   {
     "phones": [
@@ -3027,7 +3210,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "https://barbiehalls.com/"
   },
   {
     "phones": [
@@ -3039,7 +3223,8 @@ let putas = [
     ],
     "hora": 160,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -3052,7 +3237,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 0
+    "rato": 0,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -3067,7 +3253,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Colonial"
   },
   {
     "phones": [
@@ -3126,7 +3313,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "murano"
   },
   {
     "phones": [
@@ -3141,7 +3329,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "PENTHOUSE"
   },
   {
     "phones": [
@@ -3159,7 +3348,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -3172,7 +3362,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -3184,7 +3375,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "zoologico parece"
   },
   {
     "phones": [
@@ -3199,7 +3391,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "CR 15A #5-33"
   },
   {
     "phones": [
@@ -3241,7 +3434,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -3263,7 +3457,8 @@ let putas = [
     ],
     "hora": 170,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Cra. 15A#5-33"
   },
   {
     "phones": [
@@ -3285,7 +3480,8 @@ let putas = [
     ],
     "hora": 170,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "cra 15a#5-33"
   },
   {
     "phones": [
@@ -3301,7 +3497,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -3323,7 +3520,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -3343,7 +3541,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Hotel Murano"
   },
   {
     "phones": [
@@ -3383,7 +3582,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "murano"
   },
   {
     "phones": [
@@ -3394,7 +3594,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -3411,7 +3612,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": " Villa del rio"
   },
   {
     "phones": [
@@ -3422,7 +3624,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "/8076562"
   },
   {
     "phones": [
@@ -3436,7 +3639,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -3451,7 +3655,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -3468,7 +3673,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -3485,7 +3691,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -3509,7 +3716,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -3521,7 +3729,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Penthouse"
   },
   {
     "phones": [
@@ -3535,7 +3744,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -3549,7 +3759,8 @@ let putas = [
     ],
     "hora": 200,
     "media": 150,
-    "rato": 100
+    "rato": 100,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -3576,7 +3787,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": "casa murano"
   },
   {
     "phones": [
@@ -3590,7 +3802,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -3607,7 +3820,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 100,
-    "rato": 60
+    "rato": 60,
+    "lugar": "PENTHOUSE"
   },
   {
     "phones": [
@@ -3621,7 +3835,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -3637,7 +3852,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "centro"
   },
   {
     "phones": [
@@ -3648,7 +3864,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "virtual"
   },
   {
     "phones": [
@@ -3664,7 +3881,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "oasis"
   },
   {
     "phones": [
@@ -3682,7 +3900,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 100,
-    "rato": 60
+    "rato": 60,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -3693,7 +3912,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "virtual"
   },
   {
     "phones": [
@@ -3704,7 +3924,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "virtual"
   },
   {
     "phones": [
@@ -3725,7 +3946,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "geral ya"
   },
   {
     "phones": [
@@ -3737,7 +3959,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilios"
   },
   {
     "phones": [
@@ -3759,7 +3982,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Cra 15a#5-33"
   },
   {
     "phones": [
@@ -3784,7 +4008,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 70,
-    "rato": 40
+    "rato": 40,
+    "lugar": "Phenhouse"
   },
   {
     "phones": [
@@ -3797,7 +4022,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "no"
   },
   {
     "phones": [
@@ -3820,7 +4046,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -3846,7 +4073,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "CRA.15a # 5 - 33"
   },
   {
     "phones": [
@@ -3865,7 +4093,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "SINGAPUR"
   },
   {
     "phones": [
@@ -3878,7 +4107,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "santandereana ya"
   },
   {
     "phones": [
@@ -3915,7 +4145,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 50
+    "rato": 50,
+    "lugar": "COLONIAL"
   },
   {
     "phones": [
@@ -3938,7 +4169,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "COLONIAL"
   },
   {
     "phones": [
@@ -3972,7 +4204,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 70,
-    "rato": 40
+    "rato": 40,
+    "lugar": "brisa de Magdalena"
   },
   {
     "phones": [
@@ -3983,7 +4216,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -3994,7 +4228,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "error"
   },
   {
     "phones": [
@@ -4005,7 +4240,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fake"
   },
   {
     "phones": [
@@ -4016,7 +4252,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "yopal"
   },
   {
     "phones": [
@@ -4027,7 +4264,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "hotel nuevo astoria neiva cr 3 bis 7 63"
   },
   {
     "phones": [
@@ -4041,7 +4279,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "SINGAPUR"
   },
   {
     "phones": [
@@ -4056,7 +4295,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "no responde"
   },
   {
     "phones": [
@@ -4080,7 +4320,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -4106,7 +4347,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -4122,7 +4364,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Cr15a#5-33 altico"
   },
   {
     "phones": [
@@ -4143,7 +4386,8 @@ let putas = [
     ],
     "hora": 200,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4156,7 +4400,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": ""
   },
   {
     "phones": [
@@ -4172,7 +4417,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -4187,7 +4433,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4209,7 +4456,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 60
+    "rato": 60,
+    "lugar": ""
   },
   {
     "phones": [
@@ -4223,7 +4471,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": ""
   },
   {
     "phones": [
@@ -4236,7 +4485,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Cra 15#5-33"
   },
   {
     "phones": [
@@ -4252,7 +4502,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -4263,7 +4514,8 @@ let putas = [
     ],
     "hora": 180,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4284,7 +4536,8 @@ let putas = [
     ],
     "hora": 200,
     "media": 90,
-    "rato": 50
+    "rato": 50,
+    "lugar": "SINGAPUR"
   },
   {
     "phones": [
@@ -4295,7 +4548,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -4306,7 +4560,8 @@ let putas = [
     ],
     "hora": 160,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -4317,7 +4572,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "pastas"
   },
   {
     "phones": [
@@ -4347,7 +4603,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "marion"
   },
   {
     "phones": [
@@ -4364,7 +4621,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 600
+    "rato": 600,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4379,7 +4637,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -4398,7 +4657,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -4413,7 +4673,8 @@ let putas = [
     ],
     "hora": 160,
     "media": 120,
-    "rato": 100
+    "rato": 100,
+    "lugar": "SINGAPUR"
   },
   {
     "phones": [
@@ -4432,7 +4693,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "VILLA  DEL RIO"
   },
   {
     "phones": [
@@ -4450,7 +4712,8 @@ let putas = [
     ],
     "hora": 70,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -4470,7 +4733,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -4496,7 +4760,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Carrera 15A #5-33"
   },
   {
     "phones": [
@@ -4512,7 +4777,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -4529,7 +4795,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "casa murano"
   },
   {
     "phones": [
@@ -4554,7 +4821,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "NO"
   },
   {
     "phones": [
@@ -4569,7 +4837,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 100,
-    "rato": 80
+    "rato": 80,
+    "lugar": "SINGAPUR"
   },
   {
     "phones": [
@@ -4589,7 +4858,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4611,7 +4881,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -4625,7 +4896,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -4636,7 +4908,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Se elimino"
   },
   {
     "phones": [
@@ -4655,7 +4928,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 40
+    "rato": 40,
+    "lugar": "penhouse"
   },
   {
     "phones": [
@@ -4668,7 +4942,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -4689,7 +4964,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "SINGAPUR"
   },
   {
     "phones": [
@@ -4700,7 +4976,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "virtual"
   },
   {
     "phones": [
@@ -4711,7 +4988,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "FAKE"
   },
   {
     "phones": [
@@ -4724,7 +5002,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "hotel san pedor"
   },
   {
     "phones": [
@@ -4736,7 +5015,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -4753,7 +5033,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 100,
-    "rato": 80
+    "rato": 80,
+    "lugar": "casa murano"
   },
   {
     "phones": [
@@ -4765,7 +5046,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 40
+    "rato": 40,
+    "lugar": "marion"
   },
   {
     "phones": [
@@ -4782,7 +5064,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": "chapinero o singapur"
   },
   {
     "phones": [
@@ -4799,7 +5082,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4817,7 +5101,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "SANGAPUR"
   },
   {
     "phones": [
@@ -4835,7 +5120,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4856,7 +5142,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -4896,7 +5183,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "FAKE"
   },
   {
     "phones": [
@@ -4907,7 +5195,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -4931,7 +5220,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "NO"
   },
   {
     "phones": [
@@ -4971,7 +5261,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "FAKe"
   },
   {
     "phones": [
@@ -4987,7 +5278,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5024,7 +5316,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5041,7 +5334,8 @@ let putas = [
     ],
     "hora": 90,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Penhouse"
   },
   {
     "phones": [
@@ -5054,7 +5348,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Casa Murano"
   },
   {
     "phones": [
@@ -5065,7 +5360,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "casa murano"
   },
   {
     "phones": [
@@ -5076,7 +5372,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "pitalito"
   },
   {
     "phones": [
@@ -5087,7 +5384,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5117,7 +5415,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -5133,7 +5432,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "FAKE"
   },
   {
     "phones": [
@@ -5147,7 +5447,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "FAKE"
   },
   {
     "phones": [
@@ -5168,7 +5469,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5182,7 +5484,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Hotel sion real cl.7#3-25"
   },
   {
     "phones": [
@@ -5194,7 +5497,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Hotel sion real cl.7#3-25 al pie de la rosa"
   },
   {
     "phones": [
@@ -5211,7 +5515,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5233,7 +5538,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "HOTEL COLONIAL"
   },
   {
     "phones": [
@@ -5258,7 +5564,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "marties"
   },
   {
     "phones": [
@@ -5274,7 +5581,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "madrid de luxe"
   },
   {
     "phones": [
@@ -5287,7 +5595,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Cr 15 A # 5 - 33 Altico"
   },
   {
     "phones": [
@@ -5302,7 +5611,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5314,7 +5624,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "mocoa"
   },
   {
     "phones": [
@@ -5387,7 +5698,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5399,7 +5711,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5415,7 +5728,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "PENTHOUSE"
   },
   {
     "phones": [
@@ -5440,7 +5754,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Hotel colonial"
   },
   {
     "phones": [
@@ -5454,7 +5769,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5490,7 +5806,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "CARRERA 15A #5-33 EN EL BARRIO EL ALTICO DETRAS DE LA IGLESIA SAN JOSE CASA EN EL AIRE "
   },
   {
     "phones": [
@@ -5554,7 +5871,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5565,7 +5883,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5605,7 +5924,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5617,7 +5937,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5640,7 +5961,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5653,7 +5975,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5688,7 +6011,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5705,7 +6029,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -5716,7 +6041,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "hotel"
   },
   {
     "phones": [
@@ -5731,7 +6057,8 @@ let putas = [
     ],
     "hora": 180,
     "media": 100,
-    "rato": 90
+    "rato": 90,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5799,7 +6126,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5810,7 +6138,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5821,7 +6150,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 0,
-    "rato": 60
+    "rato": 60,
+    "lugar": "hotel el eden"
   },
   {
     "phones": [
@@ -5832,7 +6162,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -5843,7 +6174,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240411"
   },
   {
     "phones": [
@@ -5856,7 +6188,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Chapinero"
   },
   {
     "phones": [
@@ -5868,7 +6201,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -5885,7 +6219,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5897,7 +6232,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240408"
   },
   {
     "phones": [
@@ -5914,7 +6250,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -5925,7 +6262,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "creo que sueño real"
   },
   {
     "phones": [
@@ -5939,7 +6277,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -5972,7 +6311,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "casa murano"
   },
   {
     "phones": [
@@ -5986,7 +6326,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -6003,7 +6344,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -6017,7 +6359,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -6030,7 +6373,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "\n        Hotel LisBoa Center\n        Cra 3° # 4-49 B/Centro\n        "
   },
   {
     "phones": [
@@ -6044,7 +6388,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "LISBOA CENTER"
   },
   {
     "phones": [
@@ -6055,7 +6400,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -6072,7 +6418,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -6085,7 +6432,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "enthouse"
   },
   {
     "phones": [
@@ -6112,7 +6460,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -6133,7 +6482,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -6155,7 +6505,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -6166,7 +6517,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -6177,7 +6529,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240304"
   },
   {
     "phones": [
@@ -6189,7 +6542,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240301"
   },
   {
     "phones": [
@@ -6206,7 +6560,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "villavicencio"
   },
   {
     "phones": [
@@ -6217,7 +6572,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240125"
   },
   {
     "phones": [
@@ -6228,7 +6584,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240121"
   },
   {
     "phones": [
@@ -6246,7 +6603,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240208"
   },
   {
     "phones": [
@@ -6257,7 +6615,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240116"
   },
   {
     "phones": [
@@ -6268,7 +6627,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -6283,7 +6643,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240228"
   },
   {
     "phones": [
@@ -6294,7 +6655,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231201"
   },
   {
     "phones": [
@@ -6319,7 +6681,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240229"
   },
   {
     "phones": [
@@ -6332,7 +6695,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231216"
   },
   {
     "phones": [
@@ -6344,7 +6708,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231123"
   },
   {
     "phones": [
@@ -6355,7 +6720,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231026"
   },
   {
     "phones": [
@@ -6373,7 +6739,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "venecia"
   },
   {
     "phones": [
@@ -6385,7 +6752,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231023"
   },
   {
     "phones": [
@@ -6396,7 +6764,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231007"
   },
   {
     "phones": [
@@ -6407,7 +6776,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231107"
   },
   {
     "phones": [
@@ -6418,7 +6788,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -6429,7 +6800,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231001"
   },
   {
     "phones": [
@@ -6440,7 +6812,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230928"
   },
   {
     "phones": [
@@ -6452,7 +6825,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231206"
   },
   {
     "phones": [
@@ -6463,7 +6837,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230830"
   },
   {
     "phones": [
@@ -6474,7 +6849,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230904"
   },
   {
     "phones": [
@@ -6485,7 +6861,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230824"
   },
   {
     "phones": [
@@ -6496,7 +6873,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231103"
   },
   {
     "phones": [
@@ -6507,7 +6885,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "hotel"
   },
   {
     "phones": [
@@ -6518,7 +6897,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230817"
   },
   {
     "phones": [
@@ -6530,7 +6910,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230820"
   },
   {
     "phones": [
@@ -6542,7 +6923,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231130"
   },
   {
     "phones": [
@@ -6553,7 +6935,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230819"
   },
   {
     "phones": [
@@ -6565,7 +6948,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -6578,7 +6962,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231118"
   },
   {
     "phones": [
@@ -6589,7 +6974,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230711"
   },
   {
     "phones": [
@@ -6600,7 +6986,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230626"
   },
   {
     "phones": [
@@ -6611,7 +6998,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230623"
   },
   {
     "phones": [
@@ -6623,7 +7011,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230630"
   },
   {
     "phones": [
@@ -6634,7 +7023,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230608"
   },
   {
     "phones": [
@@ -6646,7 +7036,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230607"
   },
   {
     "phones": [
@@ -6657,7 +7048,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230525"
   },
   {
     "phones": [
@@ -6669,7 +7061,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230810"
   },
   {
     "phones": [
@@ -6688,7 +7081,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230601"
   },
   {
     "phones": [
@@ -6702,7 +7096,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230704"
   },
   {
     "phones": [
@@ -6713,7 +7108,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20231209"
   },
   {
     "phones": [
@@ -6724,7 +7120,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230628"
   },
   {
     "phones": [
@@ -6735,7 +7132,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230630"
   },
   {
     "phones": [
@@ -6746,7 +7144,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230514"
   },
   {
     "phones": [
@@ -6757,7 +7156,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "bello"
   },
   {
     "phones": [
@@ -6769,7 +7169,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230929"
   },
   {
     "phones": [
@@ -6780,7 +7181,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230420"
   },
   {
     "phones": [
@@ -6791,7 +7193,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "medellin"
   },
   {
     "phones": [
@@ -6802,7 +7205,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230412"
   },
   {
     "phones": [
@@ -6818,7 +7222,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230413"
   },
   {
     "phones": [
@@ -6829,7 +7234,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230317"
   },
   {
     "phones": [
@@ -6842,7 +7248,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230318"
   },
   {
     "phones": [
@@ -6853,7 +7260,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230508"
   },
   {
     "phones": [
@@ -6866,7 +7274,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230326"
   },
   {
     "phones": [
@@ -6877,7 +7286,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230227"
   },
   {
     "phones": [
@@ -6888,7 +7298,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230223"
   },
   {
     "phones": [
@@ -6901,7 +7312,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230314"
   },
   {
     "phones": [
@@ -6913,7 +7325,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230313"
   },
   {
     "phones": [
@@ -6925,7 +7338,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230211"
   },
   {
     "phones": [
@@ -6936,7 +7350,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230205"
   },
   {
     "phones": [
@@ -6947,7 +7362,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "no"
   },
   {
     "phones": [
@@ -6958,7 +7374,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230110"
   },
   {
     "phones": [
@@ -6982,7 +7399,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "hotel"
   },
   {
     "phones": [
@@ -6993,7 +7411,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230107"
   },
   {
     "phones": [
@@ -7004,7 +7423,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "girardot"
   },
   {
     "phones": [
@@ -7015,7 +7435,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221222"
   },
   {
     "phones": [
@@ -7028,7 +7449,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230316"
   },
   {
     "phones": [
@@ -7039,7 +7461,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230111"
   },
   {
     "phones": [
@@ -7066,7 +7489,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "melgar"
   },
   {
     "phones": [
@@ -7077,7 +7501,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221213"
   },
   {
     "phones": [
@@ -7117,7 +7542,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "granada"
   },
   {
     "phones": [
@@ -7129,7 +7555,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221201"
   },
   {
     "phones": [
@@ -7140,7 +7567,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221127"
   },
   {
     "phones": [
@@ -7151,7 +7579,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221119"
   },
   {
     "phones": [
@@ -7162,7 +7591,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "puerto gaitan"
   },
   {
     "phones": [
@@ -7175,7 +7605,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "fontibon"
   },
   {
     "phones": [
@@ -7186,7 +7617,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230221"
   },
   {
     "phones": [
@@ -7197,7 +7629,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221029"
   },
   {
     "phones": [
@@ -7209,7 +7642,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230710"
   },
   {
     "phones": [
@@ -7220,7 +7654,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -7233,7 +7668,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221130"
   },
   {
     "phones": [
@@ -7295,7 +7731,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "pitalito"
   },
   {
     "phones": [
@@ -7306,7 +7743,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221016"
   },
   {
     "phones": [
@@ -7317,7 +7755,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221021"
   },
   {
     "phones": [
@@ -7332,7 +7771,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20221216"
   },
   {
     "phones": [
@@ -7343,7 +7783,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "virtual"
   },
   {
     "phones": [
@@ -7354,7 +7795,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "medellin"
   },
   {
     "phones": [
@@ -7365,7 +7807,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230903"
   },
   {
     "phones": [
@@ -7378,7 +7821,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230307"
   },
   {
     "phones": [
@@ -7399,7 +7843,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "tunja"
   },
   {
     "phones": [
@@ -7411,7 +7856,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230221"
   },
   {
     "phones": [
@@ -7425,7 +7871,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20211129"
   },
   {
     "phones": [
@@ -7436,7 +7883,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240112"
   },
   {
     "phones": [
@@ -7447,7 +7895,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "proxenetas"
   },
   {
     "phones": [
@@ -7459,7 +7908,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230320"
   },
   {
     "phones": [
@@ -7471,7 +7921,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230216"
   },
   {
     "phones": [
@@ -7483,7 +7934,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20230317"
   },
   {
     "phones": [
@@ -7509,7 +7961,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "popayan"
   },
   {
     "phones": [
@@ -7522,7 +7975,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "ashly retirada"
   },
   {
     "phones": [
@@ -7543,7 +7997,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -7555,7 +8010,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7570,7 +8026,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -7581,7 +8038,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilios"
   },
   {
     "phones": [
@@ -7594,7 +8052,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "sion real"
   },
   {
     "phones": [
@@ -7607,7 +8066,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "sion real"
   },
   {
     "phones": [
@@ -7621,7 +8081,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "quibdo"
   },
   {
     "phones": [
@@ -7633,7 +8094,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -7644,7 +8106,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -7663,7 +8126,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -7675,7 +8139,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "villa del rio"
   },
   {
     "phones": [
@@ -7686,7 +8151,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7705,7 +8171,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -7745,7 +8212,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7760,7 +8228,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -7769,7 +8238,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7784,7 +8254,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 100,
-    "rato": 60
+    "rato": 60,
+    "lugar": "Carrera 9 14 42 barrio Chapinero"
   },
   {
     "phones": [
@@ -7793,7 +8264,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7802,7 +8274,8 @@ let putas = [
     "codes": [],
     "hora": 170,
     "media": 120,
-    "rato": 100
+    "rato": 100,
+    "lugar": "Hotel sion real calle 7 # 3 - 25"
   },
   {
     "phones": [
@@ -7811,7 +8284,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7839,7 +8313,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "📍Hotel brisas del Magdalena 📍Calle 9 con carrera 1b-81"
   },
   {
     "phones": [
@@ -7848,7 +8323,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7857,7 +8333,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Calle 3 b 14-42 Singapur"
   },
   {
     "phones": [
@@ -7868,7 +8345,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Hotel villa del rio"
   },
   {
     "phones": [
@@ -7877,7 +8355,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 60
+    "rato": 60,
+    "lugar": "casa Murano"
   },
   {
     "phones": [
@@ -7892,7 +8371,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7901,7 +8381,8 @@ let putas = [
     "codes": [],
     "hora": 110,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -7912,7 +8393,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "vikingos"
   },
   {
     "phones": [
@@ -7921,7 +8403,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -7930,7 +8413,8 @@ let putas = [
     "codes": [],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -7941,7 +8425,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -7950,7 +8435,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": ""
   },
   {
     "phones": [
@@ -7966,7 +8452,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -7975,7 +8462,8 @@ let putas = [
     "codes": [],
     "hora": 130,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -7988,7 +8476,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "PENTHOUSE"
   },
   {
     "phones": [
@@ -7997,7 +8486,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -8006,7 +8496,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 120,
-    "rato": 0
+    "rato": 0,
+    "lugar": "cambulos"
   },
   {
     "phones": [
@@ -8017,7 +8508,8 @@ let putas = [
     ],
     "hora": 110,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -8026,7 +8518,8 @@ let putas = [
     "codes": [],
     "hora": 150,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8035,7 +8528,8 @@ let putas = [
     "codes": [],
     "hora": 200,
     "media": 100,
-    "rato": 0
+    "rato": 0,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -8044,7 +8538,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8053,7 +8548,8 @@ let putas = [
     "codes": [],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "comuneros"
   },
   {
     "phones": [
@@ -8064,7 +8560,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 60,
-    "rato": 0
+    "rato": 0,
+    "lugar": "san pedro"
   },
   {
     "phones": [
@@ -8075,7 +8572,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 0,
-    "rato": 70
+    "rato": 70,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8084,7 +8582,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8093,7 +8592,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8102,7 +8602,8 @@ let putas = [
     "codes": [],
     "hora": 160,
     "media": 90,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8113,7 +8614,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8122,7 +8624,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8131,7 +8634,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8140,7 +8644,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8149,7 +8654,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8171,7 +8677,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8180,7 +8687,8 @@ let putas = [
     "codes": [],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8191,7 +8699,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8208,7 +8717,8 @@ let putas = [
     ],
     "hora": 90,
     "media": 60,
-    "rato": 40
+    "rato": 40,
+    "lugar": "murano"
   },
   {
     "phones": [
@@ -8219,7 +8729,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 100,
-    "rato": 70
+    "rato": 70,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -8228,7 +8739,8 @@ let putas = [
     "codes": [],
     "hora": 90,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "PENTHOUSE"
   },
   {
     "phones": [
@@ -8237,7 +8749,8 @@ let putas = [
     "codes": [],
     "hora": 130,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8246,7 +8759,8 @@ let putas = [
     "codes": [],
     "hora": 160,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "parque"
   },
   {
     "phones": [
@@ -8255,7 +8769,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8264,7 +8779,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8273,7 +8789,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8282,7 +8799,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8293,7 +8811,8 @@ let putas = [
     ],
     "hora": 150,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8302,7 +8821,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 80,
-    "rato": 70
+    "rato": 70,
+    "lugar": "Carrera 13 #12 104 altico Es un reservado amor"
   },
   {
     "phones": [
@@ -8311,7 +8831,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8320,7 +8841,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -8329,7 +8851,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 90,
-    "rato": 50
+    "rato": 50,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -8338,7 +8861,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -8347,7 +8871,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 60
+    "rato": 60,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8356,7 +8881,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8365,7 +8891,8 @@ let putas = [
     "codes": [],
     "hora": 90,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -8374,7 +8901,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -8383,7 +8911,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Hostal villa del río"
   },
   {
     "phones": [
@@ -8392,7 +8921,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8401,7 +8931,8 @@ let putas = [
     "codes": [],
     "hora": 130,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -8410,7 +8941,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8419,7 +8951,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Hotel purace"
   },
   {
     "phones": [
@@ -8428,7 +8961,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Singapur"
   },
   {
     "phones": [
@@ -8437,7 +8971,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8450,7 +8985,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -8459,7 +8995,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8474,7 +9011,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8485,7 +9023,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8494,7 +9033,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8503,7 +9043,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "hotel 🏩 bella orquídea Calle 12 # 1F -27 "
   },
   {
     "phones": [
@@ -8512,7 +9053,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 60,
-    "rato": 0
+    "rato": 0,
+    "lugar": "hotel colonial"
   },
   {
     "phones": [
@@ -8521,7 +9063,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -8532,7 +9075,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penhouse"
   },
   {
     "phones": [
@@ -8541,7 +9085,8 @@ let putas = [
     "codes": [],
     "hora": 90,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "Penthouse"
   },
   {
     "phones": [
@@ -8552,7 +9097,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -8561,7 +9107,8 @@ let putas = [
     "codes": [],
     "hora": 90,
     "media": 50,
-    "rato": 0
+    "rato": 0,
+    "lugar": "recoger"
   },
   {
     "phones": [
@@ -8570,7 +9117,8 @@ let putas = [
     "codes": [],
     "hora": 90,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "donde tu quieras"
   },
   {
     "phones": [
@@ -8579,7 +9127,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8588,7 +9137,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -8597,7 +9147,8 @@ let putas = [
     "codes": [],
     "hora": 110,
     "media": 80,
-    "rato": 60
+    "rato": 60,
+    "lugar": "colonial"
   },
   {
     "phones": [
@@ -8606,7 +9157,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -8615,7 +9167,8 @@ let putas = [
     "codes": [],
     "hora": 150,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8624,7 +9177,8 @@ let putas = [
     "codes": [],
     "hora": 120,
     "media": 90,
-    "rato": 70
+    "rato": 70,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -8639,7 +9193,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "chapinero"
   },
   {
     "phones": [
@@ -8651,7 +9206,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -8660,7 +9216,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8669,7 +9226,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 70,
-    "rato": 40
+    "rato": 40,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8739,7 +9297,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 90,
-    "rato": 60
+    "rato": 60,
+    "lugar": "singapur"
   },
   {
     "phones": [
@@ -8748,7 +9307,8 @@ let putas = [
     "codes": [],
     "hora": 100,
     "media": 80,
-    "rato": 50
+    "rato": 50,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -8757,7 +9317,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8766,7 +9327,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8775,7 +9337,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8797,7 +9360,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "villa del rio"
   },
   {
     "phones": [
@@ -8806,7 +9370,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8823,7 +9388,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8832,7 +9398,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8841,7 +9408,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8854,7 +9422,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8863,7 +9432,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8872,7 +9442,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8884,7 +9455,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8893,7 +9465,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8902,7 +9475,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8911,7 +9485,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Carrera 10 bis con calle 30 30 b07"
   },
   {
     "phones": [
@@ -8940,7 +9515,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Centro Carrera 10bis con 30"
   },
   {
     "phones": [
@@ -8949,7 +9525,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8984,7 +9561,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -8993,7 +9571,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9002,7 +9581,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "Hostal villa del rio av circunvalar"
   },
   {
     "phones": [
@@ -9011,7 +9591,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9023,7 +9604,8 @@ let putas = [
     ],
     "hora": 60,
     "media": 80,
-    "rato": 100
+    "rato": 100,
+    "lugar": "zoologico"
   },
   {
     "phones": [
@@ -9032,7 +9614,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9044,7 +9627,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9059,7 +9643,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9070,7 +9655,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "ibague"
   },
   {
     "phones": [
@@ -9082,7 +9668,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9091,7 +9678,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9100,7 +9688,8 @@ let putas = [
     "codes": [],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9138,7 +9727,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "villa del rio"
   },
   {
     "phones": [
@@ -9156,7 +9746,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "san jose del guaviare"
   },
   {
     "phones": [
@@ -9172,7 +9763,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -9193,7 +9785,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9207,7 +9800,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "la plata"
   },
   {
     "phones": [
@@ -9219,7 +9813,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "no"
   },
   {
     "phones": [
@@ -9231,7 +9826,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": ""
   },
   {
     "phones": [
@@ -9249,7 +9845,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "yopal"
   },
   {
     "phones": [
@@ -9262,7 +9859,8 @@ let putas = [
     ],
     "hora": 120,
     "media": 70,
-    "rato": 0
+    "rato": 0,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -9277,7 +9875,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240321"
   },
   {
     "phones": [
@@ -9291,7 +9890,8 @@ let putas = [
     ],
     "hora": 130,
     "media": 0,
-    "rato": 70
+    "rato": 70,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -9302,7 +9902,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "ubate"
   },
   {
     "phones": [
@@ -9315,7 +9916,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 70,
-    "rato": 40
+    "rato": 40,
+    "lugar": "penthouse"
   },
   {
     "phones": [
@@ -9329,7 +9931,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240512"
   },
   {
     "phones": [
@@ -9340,7 +9943,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "travesti"
   },
   {
     "phones": [
@@ -9352,7 +9956,8 @@ let putas = [
     ],
     "hora": 100,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -9365,7 +9970,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240312"
   },
   {
     "phones": [
@@ -9376,7 +9982,8 @@ let putas = [
     ],
     "hora": 0,
     "media": 0,
-    "rato": 0
+    "rato": 0,
+    "lugar": "20240312"
   },
   {
     "phones": [
@@ -9387,7 +9994,8 @@ let putas = [
     ],
     "hora": 140,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "domicilio"
   },
   {
     "phones": [
@@ -9399,6 +10007,7 @@ let putas = [
     ],
     "hora": 120,
     "media": 80,
-    "rato": 0
+    "rato": 0,
+    "lugar": "villa del rio"
   }
 ]
